@@ -1,6 +1,6 @@
 # KingdomRushSVGs
 
-## Captain Blackthrne
+## Captain Blackthorne
 ![image](https://user-images.githubusercontent.com/37688237/122511251-927d0900-d024-11eb-8ece-5420b718c0f8.png)
 
 Inkscape video: https://www.youtube.com/watch?v=kuwWe8U9al4
